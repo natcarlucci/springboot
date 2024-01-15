@@ -8,5 +8,6 @@
 - Spring Web MVC
 - Spring Data JPA
 - Spring Validation
+- POST, GET (getAll; getOne), PUT, DELETE
 - Spring Hateoas
 
